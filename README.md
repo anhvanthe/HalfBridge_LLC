@@ -4,17 +4,18 @@ Design, Simulation and Testing Half bridge LLC
 # Specification
 The design will have based on specification of reference designs from Infineon, TI, ST.
 
-Output Current   max	50	
-Output Voltage   min  max	11.9 V   12.1 V	
-Pout   max	600.0 W	
-Supply Voltage   min  max	350.0 V   400.0 V	
-Efficiency	97.4%	
-Control	Digital	
-Qualification	Industrial	
-Topology	Half Bridge ; LLC	
-Dimensions	220 x 80mm	
-Additional Features	High efficiency at light load	
-Protection	OVP, OCP, OTP	
+* Output Current   max	50
+* Output Voltage   min  max	11.9 V   12.1 V
+* Pout   max	600.0 W
+* Supply Voltage   min  max	350.0 V   400.0 V
+* Efficiency	97.4%
+* Control	Digital
+* Qualification	Industrial
+* Topology	Half Bridge ; LLC
+* Dimensions	220 x 80mm
+* Additional Features	High efficiency at light load
+* Protection	OVP, OCP, OTP
+
 
 # Peoples
 TuongPV
