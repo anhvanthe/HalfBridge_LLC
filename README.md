@@ -1,6 +1,13 @@
 # HalfBridge_LLC
 Design, Simulation and Testing Half bridge LLC
 
+# Motivation 
+* Want to design product that make great
+* Improve Design and Research skills (how to transform cutting edge research to great product)
+* Collaborate, teamwork
+* Have meaningful engineering life
+
+
 # Specification
 The design will have based on specification of reference designs from Infineon, TI, ST.
 
