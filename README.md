@@ -2,6 +2,8 @@
 Checkout https://github.com/anhvanthe/HalfBridge_LLC/wiki
 
 
+![GitHub Logo](/pic/voltage-gain-function.PNG)
+
 # HalfBridge_LLC
 Design, Simulation and Testing Half bridge LLC
 
