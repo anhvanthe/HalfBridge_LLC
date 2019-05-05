@@ -35,7 +35,7 @@ TuongPV
 
 # Timeline 
 -	Start: Apr-11-2019
--	Finish: May-15-2019 (expected)
+-	Finish: Jun-15-2019 (expected)
 
 ## Some important milestone
 * Simulation
